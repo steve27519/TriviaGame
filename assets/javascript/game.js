@@ -8,7 +8,7 @@ var questions = [{
   correctAnswer: "Yankees",
   
 }, {
-  question: "what band recorded the song Stairway to Heaven?",
+  question: "What band recorded the song Stairway to Heaven?",
   answers: ["Pink Floyd", "The Who", "The Rolling Stones", "Led Zeppelin"],
   correctAnswer: "Led Zeppelin",
   

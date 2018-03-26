@@ -10,31 +10,31 @@ body {
 
 #big {
   width: 1200px;
-  height: 95%;
+  height: 97%;
   box-sizing: border-box;
-  margin: 3% auto;
+  margin: 0% auto;
   background-color: orange;
 }
 
 #smallblock {
   position: relative;
-  top: 25%;
+  top: 1%;
 }
 
 button {
   display: block;
   width: 40%;
-  height: 20%;
-  margin: 0 auto;
+  height: 30%;
+  margin: 5px auto;
   font-size: 50px;
   color: darkgreen;
   
   background-color: white; 
-  border: 0;
+  border: 5px;
 }
 
 h1 {
-  padding-top: 2.5%;
+  padding-top: 1.5%;
   font-family: Geo, sans-serif;
   font-size: 6.5em;
   font-weight: bold;
@@ -54,8 +54,10 @@ h3 {
 #start {
   margin-top: 10%;
   background:yellow;
-  border: 52px solid blue;
+  border: 85px solid blue;
 }
-timer {
+#timer {
+    font-size: 20px;
     margin-top: 20%
+    
 }
